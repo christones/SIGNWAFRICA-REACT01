@@ -1,0 +1,7 @@
+{
+  "name": "signw-africa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

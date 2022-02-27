@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">signw-africa</string>
+    <string name="title_activity_main">signw-africa</string>
+    <string name="package_name">io.ionic.signwafrica</string>
+    <string name="custom_url_scheme">io.ionic.signwafrica</string>
+</resources>

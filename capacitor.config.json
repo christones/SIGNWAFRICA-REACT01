@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.signwafrica",
+  "appName": "signw-africa",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
